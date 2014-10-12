@@ -5,3 +5,5 @@
 
 	// Do not include a trailing slash on the path
 	// $scriptPath = '/home/brewpi';
+	port = /dev/ttyUSB0
+altport = /dev/ttyUSB1
